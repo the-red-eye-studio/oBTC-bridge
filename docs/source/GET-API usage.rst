@@ -4,7 +4,7 @@ GET-API usage
 .. _inst:
 
 Installation
-------------
+++++++++++++
 
 .. http:get:: /api/v3/projects/(string:project_slug)/
 
