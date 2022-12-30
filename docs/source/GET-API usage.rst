@@ -1,7 +1,7 @@
 GET-API usage
 =====
 
-.. _inst:
+.. _installation:
 
 Installation
 ++++++++++++
